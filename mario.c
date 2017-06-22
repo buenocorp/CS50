@@ -6,7 +6,7 @@ int main(void)
     int h;
     do
     {
-        printf("height: ");
+        printf("height -> ");
         h = GetInt();
     }
     while (h < 0 || h > 23);
