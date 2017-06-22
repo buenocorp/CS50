@@ -9,7 +9,7 @@ int main(void)
         printf("height: ");
         h = GetInt();
     }
-    while (h <= 0 || h > 23);
+    while (h < 0 || h > 23);
 
     int i, j, k;
     for(i = 0; i < h; i ++)
