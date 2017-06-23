@@ -7,5 +7,5 @@ To complete the following psets, I studied all of the CS50 lectures, walkthrough
 
 psets:
 
-[Problem Set 1: C](http://docs.cs50.net/2017/x/psets/1/pset1.html)
+[Problem Set 1: C](http://docs.cs50.net/2017/x/psets/1/pset1.html) <br>
 [Problem Set 2: Crypto](http://docs.cs50.net/2017/x/psets/2/pset2.html)
